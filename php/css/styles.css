@@ -1,0 +1,114 @@
+body { padding-right: 0px; padding-left: 0px; }
+table { font-size: 12px; }
+.table th { font-size: 14px }
+.bs-callout {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+.bs-callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.bs-callout p:last-child {
+    margin-bottom: 0;
+}
+.bs-callout code {
+    border-radius: 3px;
+}
+.bs-callout+.bs-callout {
+    margin-top: -5px;
+}
+.bs-callout-default {
+    border-left-color: #777;
+}
+.bs-callout-default h4 {
+    color: #777;
+}
+.bs-callout-primary {
+    border-left-color: #428bca;
+}
+.bs-callout-primary h4 {
+    color: #428bca;
+}
+.bs-callout-success {
+    border-left-color: #5cb85c;
+}
+.bs-callout-success h4 {
+    color: #5cb85c;
+}
+.bs-callout-danger {
+    border-left-color: #d9534f;
+}
+.bs-callout-danger h4 {
+    color: #d9534f;
+}
+.bs-callout-warning {
+    border-left-color: #f0ad4e;
+}
+.bs-callout-warning h4 {
+    color: #f0ad4e;
+}
+.bs-callout-info {
+    border-left-color: #5bc0de;
+}
+.bs-callout-info h4 {
+    color: #5bc0de;
+}
+.container-fluid .page-icon {
+    float: right;
+    margin: 0.5em 0 0;
+}
+.pos-fw { color: #cc0000; }
+.pos-mf { color: #6aa84f; }
+.pos-df { color: #4a86e8; }
+.pos-gk { color: #e69138; }
+.series-nds {
+    background: black;
+    background: linear-gradient(gold, black);
+    color: white;
+}
+.series-ndg {
+    background: black;
+    color: white;
+}
+.series-cls {
+    background: mediumblue !important;
+    color: white;
+}
+.series-eus {
+    background: mediumvioletred !important;
+    color: white;
+}
+.series-bdr {
+    background: saddlebrown !important;
+    color: white;
+}
+.series-5 {
+    background: black !important;
+    color: white;
+}
+.series-snv {
+    background: greenyellow !important;
+    color: black;
+}
+.series-top {
+    background: firebrick !important;
+    color: white;
+}
+.series-mvs {
+    background: darkorchid !important;
+    color: white;
+}
+.series-hps {
+    background: aquamarine !important;
+    color: black;
+}
+table.pesc-formation>tbody>tr>td {
+    font-weight: bold;
+    height: 28px; width: 56px;
+    text-align: center;
+    vertical-align: middle;
+}
